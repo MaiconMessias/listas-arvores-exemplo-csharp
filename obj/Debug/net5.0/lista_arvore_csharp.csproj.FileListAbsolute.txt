@@ -1,0 +1,5 @@
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/lista_arvore_csharp.csproj.AssemblyReference.cache
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/lista_arvore_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/lista_arvore_csharp.AssemblyInfoInputs.cache
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/lista_arvore_csharp.AssemblyInfo.cs
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/lista_arvore_csharp.csproj.CoreCompileInputs.cache

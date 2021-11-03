@@ -1,0 +1,16 @@
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/listas-arvores-exemplo-csharp.csproj.AssemblyReference.cache
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/listas-arvores-exemplo-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/listas-arvores-exemplo-csharp.AssemblyInfoInputs.cache
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/listas-arvores-exemplo-csharp.AssemblyInfo.cs
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/listas-arvores-exemplo-csharp.csproj.CoreCompileInputs.cache
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/bin/Debug/net5.0/listas-arvores-exemplo-csharp
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/bin/Debug/net5.0/listas-arvores-exemplo-csharp.deps.json
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/bin/Debug/net5.0/listas-arvores-exemplo-csharp.runtimeconfig.json
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/bin/Debug/net5.0/listas-arvores-exemplo-csharp.runtimeconfig.dev.json
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/bin/Debug/net5.0/listas-arvores-exemplo-csharp.dll
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/bin/Debug/net5.0/ref/listas-arvores-exemplo-csharp.dll
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/bin/Debug/net5.0/listas-arvores-exemplo-csharp.pdb
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/listas-arvores-exemplo-csharp.dll
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/ref/listas-arvores-exemplo-csharp.dll
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/listas-arvores-exemplo-csharp.pdb
+/home/debian11/Documentos/Projetos CSharp/Git/listas-arvores-exemplo-csharp/obj/Debug/net5.0/listas-arvores-exemplo-csharp.genruntimeconfig.cache

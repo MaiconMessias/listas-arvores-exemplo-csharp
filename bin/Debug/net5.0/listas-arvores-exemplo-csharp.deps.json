@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "listas-arvores-exemplo-csharp/1.0.0": {
+        "runtime": {
+          "listas-arvores-exemplo-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "listas-arvores-exemplo-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
