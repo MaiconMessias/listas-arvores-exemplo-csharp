@@ -6,8 +6,8 @@ namespace listas_arvores_exemplo_csharp
     class Program
     {
         static void Main(string[] args) {
-            var l = new Filas();
-            // Adicionando itens na fila
+            var l = new Listas();
+            // Adicionando itens na lista
             l.Add(1);
             l.Add(2);
             l.Add(3);
@@ -16,11 +16,11 @@ namespace listas_arvores_exemplo_csharp
             l.Add(6);
             l.Add(7);
             // Exibe cada valor do atributo item na posicao indicada na lista
-            Console.WriteLine("Item da lista na posição 4: " + l.GetFila(4).item);
-            Console.WriteLine("Item da lista na posição 1: " + l.GetFila(1).item);
-            Console.WriteLine("Item da lista na posição 5: " + l.GetFila(5).item);
-            Console.WriteLine("Item da lista na posição 3: " + l.GetFila(3).item);
-            Console.WriteLine("Item da lista na posição 0: " + l.GetFila(0).item);
+            Console.WriteLine("Item da lista na posição 4: " + l.GetItemLista(4).item);
+            Console.WriteLine("Item da lista na posição 1: " + l.GetItemLista(1).item);
+            Console.WriteLine("Item da lista na posição 5: " + l.GetItemLista(5).item);
+            Console.WriteLine("Item da lista na posição 3: " + l.GetItemLista(3).item);
+            Console.WriteLine("Item da lista na posição 0: " + l.GetItemLista(0).item);
             Arvores a = new Arvores();
             a.Add("arvoreIt1");
             a.Add("arvoreIt2");
